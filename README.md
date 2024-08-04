@@ -1,4 +1,3 @@
-Tabii, aşağıda bu program için daha detaylı bir README dosyası örneği bulunmaktadır:
 
 ```markdown
 # AutoHostnameUpdater
